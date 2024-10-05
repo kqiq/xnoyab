@@ -1,0 +1,24 @@
+# trState : current tr state: 0 : [questions] 1 : [answers followups questions] 2: [diagnose] 3:[expertise] 4:[medical Urgance]
+# need promptTmplate and and sys instruction for each stage { 
+    diagnose : 'sys: you need to dianose the paitent withe given descriptin' : input : description created from the currentTrDataState
+    m  + r + a  :  to get the dianose and from the diagnose get the experise and medical urgance
+}
+
+# in the sys instruction say that you need instruction data.
+#trData : keep track of  data associate with the current state of tr
+
+
+
+# each state is data related and also ui related : you need to do someting in terms o data and ui in each step
+# need also the paitnet data too keep track of it in the layout sectikon
+
+
+
+
+# we put the curren specs in the sys instruction of state 3
+# something is changed
+
+
+
+
+
