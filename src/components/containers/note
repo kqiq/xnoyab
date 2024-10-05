@@ -1,0 +1,6 @@
+for now we just design them and then after that we are try to connect these component to our redux
+that will able make them containers.
+
+
+
+all the logo or dynamic values must be store in the redxu store.. for now make them static.
